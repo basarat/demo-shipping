@@ -10,7 +10,7 @@ function shipWeight() {
 }
 
 /*
- * emailAddr - An email address (or an arrary or email addresses) to ship to
+ * emailAddr - An email address (or an array of email addresses) to ship to
  */
 function sendUpdates(emailAddr) {
     function sendEmail(addr) {
